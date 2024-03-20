@@ -1,0 +1,27 @@
+{
+  "name": "whirling-watermark-widget",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for adding watermarks to your web elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seismolite/whirling-watermark-widget"
+  },
+  "keywords": [
+    "watermark",
+    "widget",
+    "web"
+  ],
+  "author": "Anastasia Kuznetsova",
+  "license": "MIT",
+  "dependencies": {
+    "fabric": "^4.5.0",
+    "lodash": "^4.17.21",
+    "jsdom": "^16.5.1",
+    "canvas": "^2.8.0",
+    "file-saver": "^2.0.5"
+  }
+}
